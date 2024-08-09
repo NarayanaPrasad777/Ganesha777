@@ -1,1 +1,2 @@
 Hello i am new file by name sample
+i am adding new data into branch feature1
